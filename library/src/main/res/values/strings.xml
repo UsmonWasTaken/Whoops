@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_and_exit">Copy and Exit</string>
+    <string name="report">Report</string>
+    <string name="unknown_error_title">An unknown error has occurred!</string>
+    <string name="device_info">Device info</string>
+    <string name="device_info_subtitle">This shows us information about your device for helping you to solve the problem</string>
+    <string name="cd_bug_occurred_icon">Bug occurred icon</string>
+</resources>
